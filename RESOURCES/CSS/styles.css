@@ -1,0 +1,45 @@
+/*Body*/
+
+body {
+    background-color: lightgray;
+  }
+
+/*Headings*/
+
+/*Page Headings*/
+.head1 {
+      color: blue;
+      text-align: center;
+      background-color: lightpink;
+    }
+.head2 {
+      text-align: center;
+    }
+
+/*Table Heading*/
+.headback {
+         background-color: cyan;
+         
+       }
+
+/*Table*/
+table, 
+th, 
+td {
+  border: 1px solid black;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+.tagrow {
+         font-family: monospace;
+         background-color: white;
+       }
+
+
+.tableback {
+          background-color: mediumspringgreen;
+        }
+           
